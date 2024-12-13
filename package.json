@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/OrekiSH/pdf-to-excel#readme",
   "dependencies": {
+    "pdf-to-excel": "^0.3.2",
     "pdfjs-dist": "4.2.67",
     "regenerator-runtime": "^0.13.7",
     "xlsx": "^0.16.9"
